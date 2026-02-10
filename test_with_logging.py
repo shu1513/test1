@@ -2,7 +2,7 @@
 import unittest
 import logging
 from math_operations import divide
-
+print("hello")
 # Set up logging for unit tests
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
